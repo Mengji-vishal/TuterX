@@ -1,0 +1,8 @@
+streamlit
+gtts
+speechrecognition
+pydub
+requests
+google-generativeai
+pygame
+opencv-python
