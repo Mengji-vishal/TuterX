@@ -1,8 +1,6 @@
 streamlit
-gtts
-speechrecognition
-pydub
-requests
 google-generativeai
-pygame
-opencv-python
+speechrecognition
+gtts
+pillow
+PyPDF2
